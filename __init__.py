@@ -1,7 +1,7 @@
 #Addon metadata
 bl_info = {
     "name": "Add and Snap Objects",
-    "blender": (4, 10, 0),
+    "blender": (2, 80, 0),
     "category": "Object",
     "author": "Mark duisters",
     "version": (1, 0, 0),
