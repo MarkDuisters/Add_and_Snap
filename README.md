@@ -1,6 +1,5 @@
 # Add 'n Snap Objects Blender Addon
 
-Description
 The Add and Snap Objects addon for Blender allows you to quickly add various default mesh and light objects to your scene and snap them to the last selected object. This can streamline your workflow by simplifying the process of placing new objects in precise locations relative to other objects.
 It mimics behavior of software such as Maya, 3dsMax, Unity, etc... Where when spawning an object, it does so at the location of the current selected object.
 
